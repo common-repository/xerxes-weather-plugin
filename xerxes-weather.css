@@ -1,0 +1,101 @@
+<style type="text/css">
+
+	#loc-name{
+
+        font-weight:700;
+
+	display: block;
+
+        margin-top:10px;
+
+        text-transform: uppercase;
+
+	        font-size: 14px;
+
+float:left;
+
+	}
+
+	#s-weather{
+
+float: left;
+
+margin-bottom: 15px;
+
+margin-left: 0px;
+
+margin-right: 0px;
+
+margin-top: 0px;
+
+padding-bottom: 15px;
+
+padding-left: 10px;
+
+padding-right: 10px;
+
+padding-top: 0px;
+
+}
+
+	#s-weather-data{
+
+	
+
+	}
+
+	#weather-text-data{
+
+        float:right;
+
+        margin-right:10px;
+        
+        margin-top:20px;
+
+	      color:#990000;
+
+        font-size: 16px;
+
+	}
+
+	#curr-t{
+	
+	font-weight:700;
+
+	font-size:14px;
+
+  color:#990000;
+
+        
+
+margin-top:2px;
+   
+        color:#222222;
+
+        }
+
+	#weather-img {
+
+	          float: left;
+
+        }
+
+        #widget-titel {
+
+        font-weight: 700;
+
+        display: block;
+
+        font-size: 14px;
+
+        margin-top: 10px;
+
+        float: left;
+
+        text-transform: uppercase;
+
+        }
+
+
+
+	</style>
